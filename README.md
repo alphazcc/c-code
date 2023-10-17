@@ -1,3 +1,3 @@
-# c-code
+# Common C code collection
 
 未完待续...
